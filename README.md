@@ -1,1 +1,1 @@
-# SPT_Proposal
+# Future Forward: Energy Management Innovation Showcase
