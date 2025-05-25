@@ -1,0 +1,1 @@
+[Here is the presentation link instead of pdf.](https://gamma.app/docs/Future-Forward-Energy-Management-Innovation-Showcase-ioetr2plv9qs7ka)
