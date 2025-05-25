@@ -1,0 +1,1 @@
+[Here is the link to read the full proposal online with a better experience rather than a pdf.](https://kiwi-airbus-506.notion.site/Challenge-Proposal-1ee64738a3cc801daa5ec3d23b5355fe)
