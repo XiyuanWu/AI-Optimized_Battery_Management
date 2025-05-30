@@ -1,8 +1,8 @@
-# Future Forward: Energy Management Innovation Showcase
+# AI-Optimized Battery Management
 
 <!-- ## Introduction -->
 
-This challenge is hosted by SPT, which is located in Riverside, CA. The theme of this challenge is "Future Forward: Energy Management Innovation Showcase". 
+This challenge is hosted by SPT, which is located in Riverside, CA. The theme of this challenge is **Future Forward: Energy Management Innovation Showcase**.
 
 The core issue we are trying to solve is, 
 > How can AI optimize the use and application of battery storage technologies in real-world energy challenges?
